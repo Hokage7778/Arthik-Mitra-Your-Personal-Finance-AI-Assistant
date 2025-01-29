@@ -1,0 +1,5 @@
+# requirements.txt
+flask==2.3.3
+werkzeug==2.3.7
+requests==2.31.0
+huggingface-hub==0.24.0  # This specific version has been reported to work better
